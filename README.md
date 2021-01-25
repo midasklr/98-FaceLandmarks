@@ -1,6 +1,10 @@
 # 98-FaceLandmarks
 98 landmark detection
 
+### update
+见 https://github.com/midasklr/facelandmarks
+更轻量更鲁邦的98点关键点算法，安卓端200fps（855+测试）
+
 ## 数据集
 
 ### WFLW
